@@ -1,0 +1,29 @@
+{
+  "name": "longcli",
+  "version": "1.0.0",
+  "description": "node脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyxmq/longcli.git"
+  },
+  "author": "andyxmq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andyxmq/longcli/issues"
+  },
+  "homepage": "https://github.com/andyxmq/longcli#readme",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1"
+  },
+  "dependencies": {
+    "download-git-repo": "^1.0.2",
+    "ora": "^2.1.0"
+  }
+}
